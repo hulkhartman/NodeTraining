@@ -1,0 +1,7 @@
+{
+  "name": "My Node Application",
+  "dbName": "NodeCourse",
+  "emailHost": "email.example.com",
+  "jwtPrivateKey": "SomePrivateKey",
+  "connectionString": "mongodb://localhost:27017/nodeCourse" //mongodb+srv://root:psswrd123@cluster0.4kvtj.mongodb.net/test
+}

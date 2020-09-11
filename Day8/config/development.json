@@ -1,0 +1,5 @@
+{
+  "name": "My Node Application",
+  "dbName": "devCourseProduction",
+  "emailHost": "dev.example.com"
+}
